@@ -1,1 +1,2 @@
 #my project
+this project is about a simple merging of two files in 2 different branches
